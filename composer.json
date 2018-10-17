@@ -1,0 +1,15 @@
+{
+  "name": "dsisconeto/design-pattners",
+  "authors": [
+    {
+      "name": "Dejair Sisconeto",
+      "email": "dejairsisconeto23@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "DSisconeto\\DesignPatterns\\": "src"
+    }
+  }
+}
