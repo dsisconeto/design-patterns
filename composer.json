@@ -6,10 +6,9 @@
       "email": "dejairsisconeto23@gmail.com"
     }
   ],
-  "require": {},
   "autoload": {
     "psr-4": {
       "DSisconeto\\DesignPatterns\\": "src"
-    }
+  }
   }
 }
